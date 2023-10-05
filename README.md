@@ -1,12 +1,19 @@
-# ODSC Workshop: "Modern NLP: Pre-training, Fine-tuning, Prompt Engineering, and Human Feedback"
+# AI Engineering Workshop: Building Generative AI Apps That Overcome Enterprise Barriers and Create Real Value
 
-(These are the materials for the "Modern NLP: Pre-training, Fine-tuning, Prompt Engineering, and Human Feedback" workshop at ODSC East and ODSC Europe 2023.)
+(These are the materials are meant to accompany Daniel Whitenack's generative AI/ LLM workshops. These workshops are meant to be given in-person. As such, certain relevant context and discussions might be missing from the notebooks themselves.)
 
-Modern Natural Language Processing (NLP) is not about creating big datasets and training models from scratch. The most innovative applications of NLP these days leverage large pre-trained, foundation models along with fine-tuning, prompt engineering, and/or human feedback. Leaving this workshop, you will understand each of these topics, and you will have gained the practical, hands-on expertise to start integrating modern NLP in your domain. 
+Product teams are scrambling to figure out what they will be doing with this latest wave of AI technologies, and engineering organizations are struggling to bring generative AI into enterprise environments. Beyond anecdotal ChatGPT interactions and intriguing demos, teams need to know how to validate inconsistent model outputs, mitigate the risk of hallucinations, structure text completions, maintain data privacy, integrate private data, establish competitive advantages, plan development activities, and understand the landscape of tooling.
+
+Leaving this workshop, you will be equipped with processes and knowledge to overcome each of these barriers, and you will have gained the practical, hands-on expertise to start integrating generative AI in your domain.
+
+Key Takeaways:
+1. Learn the essential AI engineering skills of prompting, data augmentation, chaining, developing agents, validating/filtering model inputs and outputs, and fine-tuning.
+2. Get hands-on with the latest generative AI models (i.e., Llama 2, WizardCoder, etc.)
+3. Gain a better understanding of how transformative AI applications are being architected via a new generative AI stack of tools/infra.
 
 ## Setup and pre-requisites:
 
-- Create a free Prediction Guard account and get an access token as described [here](https://docs.predictionguard.com/).
+- Obtain a [Prediction Guard](https://predictionguard.com) token from the instructor
 - Create a free SerpAPI account and get an API key as described [here](https://serpapi.com/)
 - Make sure you either:
     - have access to a Google account, such that you can use the below notebooks via Google Colab
